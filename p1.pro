@@ -7,7 +7,7 @@
 QT       += core
 
 QT       -= gui
-
+#luna
 TARGET = p1
 CONFIG   += console
 CONFIG   -= app_bundle
